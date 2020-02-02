@@ -1,6 +1,6 @@
 <?php
 
-namespace Echno889\VoteReward;
+namespace LDX\VoteReward;
 
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
